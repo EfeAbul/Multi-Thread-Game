@@ -43,5 +43,5 @@ java Game 5
 
 ## Notes
 
-- All monster threads start simultaneously and move randomly.
+- All monster threads start simultaneously and move towards the player.
 - The game ends when a monster gets close enough to the player's character.
